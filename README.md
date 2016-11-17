@@ -44,3 +44,7 @@ Versions of tools used:
 - vcstools version: `0.1.38`
 
 
+# webtest-rosrelease
+Releasing https://github.com/Pylons/webtest for ROS
+
+[![Build Status](https://travis-ci.org/asmodehn/webtest-rosrelease.svg?branch=upstream)](https://travis-ci.org/asmodehn/webtest-rosrelease)
