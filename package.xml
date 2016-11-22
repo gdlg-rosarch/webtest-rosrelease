@@ -3,7 +3,7 @@
   <name>webtest</name>
   <version>2.0.18</version>
   <description>
-  Configuration package for Pyros
+  Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server. http://webtest.readthedocs.io/en/latest/
   </description>
 
   <license>BSD</license>
@@ -28,7 +28,7 @@
   <test_depend>python-pyquery</test_depend>
 
   <export>
-    <rosdoc config="rosdoc.yaml" />
+    <rosdoc external_url="http://webtest.readthedocs.io/en/latest/" />
   </export>
 
 </package>
