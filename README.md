@@ -1,3 +1,26 @@
+## webtest (jade) - 2.0.18-2
+
+The packages in the `webtest` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade webtest` on `Thu, 23 Mar 2017 01:32:11 -0000`
+
+The `webtest` package was released.
+
+Version of package(s) in repository `webtest`:
+
+- upstream repository: https://github.com/Pylons/webtest.git
+- release repository: https://github.com/asmodehn/webtest-rosrelease.git
+- rosdistro version: `2.0.18-1`
+- old version: `2.0.18-1`
+- new version: `2.0.18-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## webtest (kinetic) - 2.0.18-1
 
 The packages in the `webtest` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic webtest` on `Tue, 21 Mar 2017 08:30:11 -0000`
